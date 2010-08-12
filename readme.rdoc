@@ -13,7 +13,7 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 * Cada usuario podera manipular esses arquivos.
 * O grupo devera conter uma agenda de compromissos.
 * Cada usuario podera manipular os compromissos.
-* A agenda consiste em um calendario que permitira os usuários inserirem compromissos em dias determinados.
+* A agenda consiste em um calendario que permitira os usuarios inserirem compromissos em dias determinados.
    
 == Dados e regras
 
