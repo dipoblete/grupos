@@ -14,6 +14,9 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 * O grupo devera conter uma agenda de compromissos.
 * Cada usuario podera manipular os compromissos.
 * A agenda consiste em um calendario que permitira os usuarios inserirem compromissos em dias determinados.
+* Cada usuario sera notificado via email que o compromisso esta proximo.
+* Cada usuario recebera via email toda e qualquer modificacao do seu grupo. (Nova discussao, novo arqivo upado, etc ...)
+* RSS disponivel em todas as paginas do grupo, para os usuarios acompanharem as atualizacoes do grupo.
    
 == Dados e regras
 
