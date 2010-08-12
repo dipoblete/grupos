@@ -21,12 +21,12 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 == Dados
 
 === Usuarios   	
-nome
-email
-nome de usuario
-senha
-data de criacao
-data da ultima atualizacao
+* nome
+* email
+* nome de usuario
+* senha
+* data de criacao
+* data da ultima atualizacao
 	
 === Compromissos
 * nome
