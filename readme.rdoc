@@ -29,38 +29,38 @@ data de criacao
 data da ultima atualizacao
 	
 === Compromissos
-nome
-data da realizacao do compromisso
-data de criacao
-data da ultima atualizacao	
+* nome
+* data da realizacao do compromisso
+* data de criacao
+* data da ultima atualizacao	
 
 === Discussoes
-codigo do dono da discucao
-titulo
-descricao
-data de criacao
-data da ultima atualizacao
+* codigo do dono da discucao
+* titulo
+* descricao
+* data de criacao
+* data da ultima atualizacao
 	
 === Respostas das discucoes
-codigo do dono da resposta
-codigo da discucao
-resposta
-data de criacao
-data da ultima atualizacao	
+* codigo do dono da resposta
+* codigo da discucao
+* resposta
+* data de criacao
+* data da ultima atualizacao	
 
 == Autorizacoes
 
 * Administrador
-**	Tem autonomia para:
-		Fazer qualquer coisa no grupo.
+Tem autonomia para:
+	Fazer qualquer coisa no grupo.
 	
 * Participante
-	Tem autonomia para:
-		Criar uma discussao
-		Responder uma discussao
-		Manipular arquivos
-		Manipular compromissos
+Tem autonomia para:
+	*Criar uma discussao
+	*Responder uma discussao
+	*Manipular arquivos
+	*Manipular compromissos
 		
 * Visitante
-	Tem autonomia para:
-		Apenas ver a descricao do grupo e suas estatisticas.
+Tem autonomia para:
+	*Apenas ver a descricao do grupo e suas estatisticas.
