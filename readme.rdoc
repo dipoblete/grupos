@@ -6,8 +6,8 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 
 * Permitir que um usuario crie um grupo.
 * Permitir que o usuario que criou o grupo convide outros usuarios.
-* Depois de um grupo ja criado um outro usuário qualquer podera pedir autorização ao administrador para participar do grupo.
-* O Administrador do grupo altera as permissões desses usuarios.
+* Depois de um grupo ja criado um outro usuario qualquer podera pedir autorizacao ao administrador para participar do grupo.
+* O Administrador do grupo altera as permissoes desses usuarios.
 * Cada usuario podera criar e responder a listas de discussoes.
 * Cada usuario podera fazer upload de arquivos e organiza-los em pastas.
 * Cada usuario podera manipular esses arquivos.
@@ -18,5 +18,7 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 == Dados e regras
 
 === Usuarios   	
+
 === Compromissos
-=== Discussões
+
+=== Discussoes
