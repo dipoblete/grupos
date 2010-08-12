@@ -4,19 +4,19 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 
 == Requisitos
 
-	Permitir que um usuário crie um grupo.
-	Permitir que o usuário que criou o grupo convide outros usuários.
-	Depois de um grupo já criado um outro usuário qualquer poderá pedir autorização ao administrador para participar do grupo.
-	O Administrador do grupo altera as permissões desses usuários.
-	Cada usuário poderá criar e responder a listas de discussões.
-	Cada usuário poderá fazer upload de arquivos e organizá-los em pastas.
-	Cada usuário poderá manipular esses arquivos.
-	O grupo deverá conter uma agenda de compromissos.
-	Cada usuário poderá manipular os compromissos.
-	A agenda consiste em um calendário que permitirá os usuários inserirem compromissos em dias determinados.
+* Permitir que um usuario crie um grupo.
+* Permitir que o usuario que criou o grupo convide outros usuarios.
+* Depois de um grupo ja criado um outro usuário qualquer podera pedir autorização ao administrador para participar do grupo.
+* O Administrador do grupo altera as permissões desses usuarios.
+* Cada usuario podera criar e responder a listas de discussoes.
+* Cada usuario podera fazer upload de arquivos e organiza-los em pastas.
+* Cada usuario podera manipular esses arquivos.
+* O grupo devera conter uma agenda de compromissos.
+* Cada usuario podera manipular os compromissos.
+* A agenda consiste em um calendario que permitira os usuários inserirem compromissos em dias determinados.
    
 == Dados e regras
 
-	Usuários   	
-	Compromissos
-	Discussões
+=== Usuarios   	
+=== Compromissos
+=== Discussões
