@@ -1,6 +1,11 @@
 = Grupos
 
-O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos da FATECBS
+O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos da FATECBS, porém pode ser usado para qualquer fim afim de organizar as necessidades da coletivada de um grupo de pessoas em especifico.
+
+Sugestoes e criticas devem ser encaminhadas para:
+
+*klaudio.seabra@gmail.com*
+
 
 == Requisitos
 
