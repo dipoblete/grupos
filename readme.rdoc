@@ -50,25 +50,17 @@ data da ultima atualizacao
 
 == Autorizacoes
 
-*Administrador*
-
-Tem autonomia para:
+*Administrador* tem autonomia para:
 
 * Fazer qualquer coisa no grupo.
-	
 
-*Participante*
-
-Tem autonomia para:
+*Participante* tem autonomia para:
 
 * Criar uma discussao
 * Responder uma discussao
 * Manipular arquivos
 * Manipular compromissos
-
 		
-*Visitante*
-
-Tem autonomia para:
+*Visitante* tem autonomia para:
 
 * Apenas ver a descricao do grupo e suas estatisticas.
