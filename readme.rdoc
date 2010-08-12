@@ -18,10 +18,49 @@ O projeto "Grupos" foi criado inicialmente com o intuito de auxiliar os alunos d
 * Cada usuario recebera via email toda e qualquer modificacao do seu grupo. (Nova discussao, novo arqivo upado, etc ...)
 * RSS disponivel em todas as paginas do grupo, para os usuarios acompanharem as atualizacoes do grupo.
    
-== Dados e regras
+== Dados
 
 === Usuarios   	
-
+	nome
+	email
+	nome de usuario
+	senha
+	data de criacao
+	data da ultima atualizacao
+	
 === Compromissos
+	nome
+	data da realizacao do compromisso
+	data de criacao
+	data da ultima atualizacao	
 
 === Discussoes
+	codigo do dono da discucao
+	titulo
+	descricao
+	data de criacao
+	data da ultima atualizacao
+	
+=== Respostas das discucoes
+	codigo do dono da resposta
+	codigo da discucao
+	resposta
+	data de criacao
+	data da ultima atualizacao	
+
+== Autorizacoes
+
+* Administrador
+	Tem autonomia para:
+		Fazer qualquer coisa no grupo.
+	
+* Participante
+	Tem autonomia para:
+		Criar uma discussao
+		Responder uma discussao
+		Manipular arquivos
+		Manipular compromissos
+		
+* Visitante
+	Tem autonomia para:
+		Apenas ver a descricao do grupo e suas estatisticas.
