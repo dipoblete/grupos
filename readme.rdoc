@@ -35,7 +35,7 @@ data da ultima atualizacao
 * data da ultima atualizacao	
 
 === Discussoes
-* codigo do dono da discucao
+* codigo do dono da discucaor
 * titulo
 * descricao
 * data de criacao
